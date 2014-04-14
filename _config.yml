@@ -2,12 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ioxfan2013.github.io
-title: 时光刻录机
-subtitle: 
+url: https://github.com/ioxfan2013/ioxfan2013.github.io.git
+title: 
+subtitle: 一个懒惰的女人
 author: Judy
 simple_search: https://www.google.com/search
 description:
+logo: portrait.png
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -17,10 +18,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: ioxfan@gmail.com
 # RSS feeds can list your email address if you like
 email:
-
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
